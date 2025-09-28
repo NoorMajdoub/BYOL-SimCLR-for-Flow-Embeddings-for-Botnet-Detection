@@ -1,7 +1,7 @@
 
-# Self-Supervised Representation Learning Project
+# BYOL/SimCLR for flow embedding 
 
-This project explores **self-supervised learning** techniques for image representations using BYOL, SimCLR, and a hybrid approach combining both. We evaluate the learned embeddings on a downstream classification task.
+My project explores **self-supervised learning** techniques for image representations using BYOL, SimCLR, and a hybrid approach combining both. We evaluate the learned embeddings on a downstream classification task.
 
 ## Implemented Methods
 
