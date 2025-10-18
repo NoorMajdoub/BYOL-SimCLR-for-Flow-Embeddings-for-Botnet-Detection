@@ -25,7 +25,7 @@ My project explores **self-supervised learning** techniques for image representa
 ## Downstream Evaluation
 
 * Trained a **linear classifier** on the embeddings to test representation quality.
-* Dataset used: **CTU-13** (unsupervised pretraining, linear evaluation protocol).
+* Dataset used: **CTU-13** (unsupervised pretraining, linear evaluation protocol)
 
 
 
